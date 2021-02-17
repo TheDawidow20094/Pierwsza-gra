@@ -1,0 +1,26 @@
+C:\Users\TheDawidow\source\repos\Giereczka vol.2\Giereczka vol.2\obj\Debug\Giereczka vol.2.csprojResolveAssemblyReference.cache
+C:\Users\TheDawidow\source\repos\Giereczka vol.2\Giereczka vol.2\obj\Debug\Giereczka vol.2.csproj.CoreCompileInputs.cache
+C:\Users\TheDawidow\source\repos\Giereczka vol.2\Giereczka vol.2\bin\Debug\Giereczka vol.2.exe.config
+C:\Users\TheDawidow\source\repos\Giereczka vol.2\Giereczka vol.2\bin\Debug\Giereczka vol.2.exe
+C:\Users\TheDawidow\source\repos\Giereczka vol.2\Giereczka vol.2\bin\Debug\Giereczka vol.2.pdb
+C:\Users\TheDawidow\source\repos\Giereczka vol.2\Giereczka vol.2\obj\Debug\Giereczka vol.2.exe
+C:\Users\TheDawidow\source\repos\Giereczka vol.2\Giereczka vol.2\obj\Debug\Giereczka vol.2.pdb
+D:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\bin\Debug\Giereczka vol.2.exe.config
+D:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\bin\Debug\Giereczka vol.2.exe
+D:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\bin\Debug\Giereczka vol.2.pdb
+D:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\obj\Debug\Giereczka vol.2.exe
+D:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\obj\Debug\Giereczka vol.2.pdb
+E:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\bin\Debug\Giereczka vol.2.exe.config
+E:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\bin\Debug\Giereczka vol.2.exe
+E:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\bin\Debug\Giereczka vol.2.pdb
+E:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\obj\Debug\Giereczka vol.2.csprojAssemblyReference.cache
+E:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\obj\Debug\Giereczka vol.2.csproj.CoreCompileInputs.cache
+E:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\obj\Debug\Giereczka vol.2.exe
+E:\Nowy folder\Programowanie\Giereczka vol.2\Giereczka vol.2\obj\Debug\Giereczka vol.2.pdb
+E:\Nowy folder\Programowanie\Giereczka\Pierwsza-gra\Giereczka vol.2\bin\Debug\Giereczka vol.2.exe.config
+E:\Nowy folder\Programowanie\Giereczka\Pierwsza-gra\Giereczka vol.2\bin\Debug\Giereczka vol.2.exe
+E:\Nowy folder\Programowanie\Giereczka\Pierwsza-gra\Giereczka vol.2\bin\Debug\Giereczka vol.2.pdb
+E:\Nowy folder\Programowanie\Giereczka\Pierwsza-gra\Giereczka vol.2\obj\Debug\Giereczka vol.2.csprojAssemblyReference.cache
+E:\Nowy folder\Programowanie\Giereczka\Pierwsza-gra\Giereczka vol.2\obj\Debug\Giereczka vol.2.csproj.CoreCompileInputs.cache
+E:\Nowy folder\Programowanie\Giereczka\Pierwsza-gra\Giereczka vol.2\obj\Debug\Giereczka vol.2.exe
+E:\Nowy folder\Programowanie\Giereczka\Pierwsza-gra\Giereczka vol.2\obj\Debug\Giereczka vol.2.pdb
